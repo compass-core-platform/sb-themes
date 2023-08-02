@@ -1,5 +1,5 @@
 {
-  "name": "@project-sunbird/sb-themes",
+  "name": "compass-sb-themes",
   "version": "0.0.88",
   "description": "Sunbird project application themes",
   "main": "index.js",
